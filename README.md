@@ -1,9 +1,6 @@
-### README for `toll-customers` Microservice
+# Toll Customers
+[This repository is part of the Toll Free Flow project](https://github.com/vitor-melo-nunes/toll-freeflow)
 
-```markdown
-# Toll Customers Service
-
-## Overview
 The Toll Customers Service handles all customer-related data. This includes managing customer information and retrieving customer details for notifications.
 
 ## Features
